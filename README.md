@@ -1,0 +1,1 @@
+This is my first calculator work. It was made with only html and css properties.

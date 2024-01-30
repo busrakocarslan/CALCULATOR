@@ -3,14 +3,10 @@
   padding: 0;
   box-sizing: border-box;
 }
-.background{
-    background-image: url(./img/business-5475663_1280.jpg);
-    background-size:contain;
-    overflow: auto;
-    
-    
-    
-    
+.background {
+  background-image: url(./img/business-5475663_1280.jpg);
+  background-size: cover;
+  overflow: auto;
 }
 .container {
   background-color: black;
@@ -23,7 +19,6 @@
   color: white;
   padding: 1rem;
   margin: auto;
-  
 }
 header {
   width: 100%;
@@ -45,7 +40,7 @@ main div {
   font-size: 2rem;
   border-radius: 50%;
   text-align: center;
-  justify-content:center;
+  justify-content: center;
   align-items: center;
   padding: 1rem;
   background-color: gray;
@@ -53,9 +48,9 @@ main div {
 }
 main div:hover {
   cursor: pointer;
-  outline: 0.8px white ;
+  outline: 0.8px white;
   opacity: 0.2;
-  outline: 
+  outline: ;
 }
 
 .box button,
@@ -73,21 +68,19 @@ main div:hover {
 }
 .boxg {
   background-color: #535353;
-  
 }
 .box {
   color: white;
-  background-color:#333333
+  background-color: #333333;
 }
 .box button:hover {
 }
-.box0{
-    /* border: 2px solid red; */
-    width: 44%;
-    height: 17%;
-    border-radius: 55px;
-    display: flex;
-    justify-content: flex-start;
-    background-color:#333333;
-
+.box0 {
+  /* border: 2px solid red; */
+  width: 44%;
+  height: 17%;
+  border-radius: 55px;
+  display: flex;
+  justify-content: flex-start;
+  background-color: #333333;
 }

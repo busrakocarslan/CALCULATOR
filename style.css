@@ -84,3 +84,10 @@ main div:hover {
   justify-content: flex-start;
   background-color: #333333;
 }
+
+@media screen  and( max.width: 600px) {
+  .container{
+    display: flex;
+  }
+  
+}
